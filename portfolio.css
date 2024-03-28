@@ -1,0 +1,46 @@
+.section-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+body{
+    background-color: aquamarine;
+}
+input{
+    height: 30px;
+    width: 300px;
+    background-color: white;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding-left: 5px;
+
+
+}
+.input-button{
+    height: 30px;
+    width: 70px;
+    background-color: blue;
+    color: white;
+}
+nav{
+    height: 70px;
+    width: 100%;
+}
+
+.nav-sec{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-ol{
+    list-style: none;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(67, 67, 133);
+}
